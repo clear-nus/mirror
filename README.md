@@ -12,7 +12,7 @@ This work focus on assistive human-robot communication. Communication is a hallm
 </p>
 
 ## Environment Setup 
-The code is tested on Ubuntu 16.04, Python 3.7 and CUDA 10.2. Please download the relevant Python packages by running:
+The code is tested on Ubuntu 20.04 LTS, Python 3.7 and CUDA 10.2. Please download the relevant Python packages by running:
 
 Get dependencies:
 
